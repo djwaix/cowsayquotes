@@ -122,3 +122,10 @@ Use Saboteurs to Test Your Testing
 Find Bugs Once
 Build Documentation In, t Bolt It On
 Sign Your Work
+My cow is not pretty, but it is pretty to me. - David Lynch
+First, love the problem. Then, write the code.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - Rick Osborne
+Linux is only free if your time has no value.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+Programming is like sex. One mistake and you have to support it for the rest of your life. - Michael Sinz
+Beta is Latin for "still doesn't work".
