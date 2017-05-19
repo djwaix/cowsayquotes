@@ -1,0 +1,124 @@
+# Wrap each line in quotes and append "- Brian Kernighan"
+Write clearly -- don't be too clever." - Brian Kernighan
+Say what you mean, simply and directly. - Brian Kernighan
+Use library functions whenever feasible. - Brian Kernighan
+Avoid too many temporary variables. - Brian Kernighan
+Write clearly -- don't sacrifice clarity for efficiency. - Brian Kernighan
+Let the machine do the dirty work. - Brian Kernighan
+Replace repetitive expressions by calls to common functions. - Brian Kernighan
+Parenthesize to avoid ambiguity. - Brian Kernighan
+Choose variable names that won't be confused. - Brian Kernighan
+Avoid unnecessary branches. - Brian Kernighan
+If a logical expression is hard to understand, try transforming it. - Brian Kernighan
+Choose a data representation that makes the program simple. - Brian Kernighan
+Write first in easy-to-understand pseudo language; then translate into whatever language you have to use. - Brian Kernighan
+Modularize. Use procedures and functions. - Brian Kernighan
+Avoid gotos completely if you can keep the program readable. - Brian Kernighan
+Don't patch bad code -- rewrite it. - Brian Kernighan
+Write and test a big program in small pieces. - Brian Kernighan
+Use recursive procedures for recursively-defined data structures. - Brian Kernighan
+Test input for plausibility and validity. - Brian Kernighan
+Make sure input doesn't violate the limits of the program. - Brian Kernighan
+Terminate input by end-of-file marker, not by count. - Brian Kernighan
+Identify bad input; recover if possible. - Brian Kernighan
+Make input easy to prepare and output self-explanatory. - Brian Kernighan
+Use uniform input formats. - Brian Kernighan
+Make input easy to proofread. - Brian Kernighan
+Use self-identifying input. Allow defaults. Echo both on output. - Brian Kernighan
+Make sure all variables are initialized before use. - Brian Kernighan
+Don't stop at one bug. - Brian Kernighan
+Use debugging compilers. - Brian Kernighan
+Watch out for off-by-one errors. - Brian Kernighan
+Take care to branch the right way on equality. - Brian Kernighan
+Be careful if a loop exits to the same place from the middle and the bottom. - Brian Kernighan
+Make sure your code does "nothing" gracefully. - Brian Kernighan
+Test programs at their boundary values. - Brian Kernighan
+Check some answers by hand. - Brian Kernighan
+10.0 times 0.1 is hardly ever 1.0. - Brian Kernighan
+7/8 is zero while 7.0/8.0 is not zero. - Brian Kernighan
+Don't compare floating point numbers solely for equality. - Brian Kernighan
+Make it right before you make it faster. - Brian Kernighan
+Make it fail-safe before you make it faster. - Brian Kernighan
+Make it clear before you make it faster. - Brian Kernighan
+Don't sacrifice clarity for small gains in efficiency. - Brian Kernighan
+Let your compiler do the simple optimizations. - Brian Kernighan
+Don't strain to re-use code; reorganize instead. - Brian Kernighan
+Make sure special cases are truly special. - Brian Kernighan
+Keep it simple to make it faster. - Brian Kernighan
+Don't diddle code to make it faster -- find a better algorithm. - Brian Kernighan
+Instrument your programs. Measure before making efficiency changes. - Brian Kernighan
+Make sure comments and code agree. - Brian Kernighan
+Don't just echo the code with comments -- make every comment count. - Brian Kernighan
+Don't comment bad code -- rewrite it. - Brian Kernighan
+Use variable names that mean something. - Brian Kernighan
+Use statement labels that mean something. - Brian Kernighan
+Format a program to help the reader understand it. - Brian Kernighan
+Document your data layouts. - Brian Kernighan
+Don't over-comment - Brian Kernighan
+Care About Your Craft
+Why spend your life developing software unless you care about doing it well?
+Provide Options, Don't Make Lame Excuses
+Be a Catalyst for Change
+Make Quality a Requirements Issue
+Critically Analyze What You Read and Hear
+Don't Repeat Yourself
+Eliminate Effects Between Unrelated Things
+Use Tracer Bullets to Find the Target
+Program Close to the Problem Domain
+Iterate the Schedule with the Code
+Use the Power of Command Shells
+Always Use Source Code Control
+Don't Panic When Debugging
+Don't Assume -- Prove It
+Write Code That Writes Code
+Design with Contracts
+Use Assertions to Prevent the Impossible
+Finish What You Start
+Configure, Don't Integrate
+Analyze Workflow to Improve Concurrency
+Always Design for Concurrency
+Estimate the Order of Your Algorithms
+Refactor Early, Refactor Often
+Test Your Software, or Your Users Will
+Abstractions Live Longer than Details
+Don't Think Outside the Box -- Find the Box
+Some Things Are Better Done than Described
+Costly Tools Don't Produce Better Designs
+Don't Use Manual Procedures
+Coding ain't Til All the Tests Run -- Nuff said.
+Test State Coverage, Not Code Coverage
+English is Just a Programming Language
+Gently Exceed Your  Expectations
+Think! About Your Work
+Don't Live with Broken Windows
+Remember the Big Picture
+Invest Regularly in Your Knowledge Portfolio
+It's Both What You Say and the Way You Say It
+Make It Easy to Reuse
+There Are No Final Decisions
+Prototype to Learn
+Estimate to Avoid Surprises
+Keep Knowledge in Plain Text
+Use a Single Editor Well
+Fix the Problem, Not the Blame
+Learn a Text Manipulation Language
+You Can't Write Perfect Software
+Use Exceptions for Exceptional Problems
+Minimize Coupling Between Modules
+Put Abstractions in Code, Details in Metadata
+Design Using Services
+Separate Views from Models
+Don't Program by Coincidence
+Test Your Estimates
+Design to Test
+Don't Use Wizard Code You t Understand
+Work with a User to Think Like a User
+Use a Project Glossary
+Start When You're Ready
+Don't Be a Slave to Formal Methods
+Organize Teams Around Functionality
+Test Early. Test Often. Test Automatically.
+Use Saboteurs to Test Your Testing
+Find Bugs Once
+Build Documentation In, t Bolt It On
+Sign Your Work
